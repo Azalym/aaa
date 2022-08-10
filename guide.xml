@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO +">
+    <display-name lang="pt">HBO +</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Hbo Pop">
+    <display-name lang="pt">Hbo Pop</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Hbo Mundi">
+    <display-name lang="pt">Hbo Mundi</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="hBO Xtreme">
+    <display-name lang="pt">hBO Xtreme</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD ³">
+    <display-name lang="pt">HBO HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD 2 ³">
+    <display-name lang="pt">HBO HD 2 ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
